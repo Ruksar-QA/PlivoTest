@@ -8,4 +8,4 @@ Steps to Run:
 2. Import the project into eclipse ide
 3. Run the dragDrop class as Java application or simply click on Run button
 
-Note: Make sure you have all the setup requred to run selenium scripts. JDK, Selenium Webdriver, Jars, Eclipse and Browser drivers.
+Note: Make sure you have all the setup required to run selenium scripts. JDK, Selenium Webdriver, Jars, Eclipse and Browser drivers.
